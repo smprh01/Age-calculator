@@ -1,8 +1,8 @@
-# Age Calculator
+## Age Calculator
 
 A simple and interactive web application to calculate your exact age in years, months, days — and optionally even hours, minutes, and seconds!
 
-## 🚀 Features
+## Features
 
 - Enter your date of birth easily.
 - Get precise age breakdown:
@@ -11,13 +11,13 @@ A simple and interactive web application to calculate your exact age in years, m
 - Beautiful and responsive UI.
 - Works directly in any modern browser.
 
-## 💻 Technologies Used
+## Technologies Used
 
 - *HTML* — for the page structure.
 - *CSS* — for styling and layout.
 - *JavaScript* — for logic and dynamic updates.
 
-## ⚙ How to Use
+ ## How to Use
 
 1. Clone the repository:
 
