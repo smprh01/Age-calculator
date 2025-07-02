@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #7bdff2, #b2f7ef);
+    background: linear-gradient(135deg, #032d09, #b2f7ef);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,7 +9,7 @@ body {
   }
   
   .container {
-    background: white;
+    background: rgb(200, 219, 174);
     padding: 30px;
     border-radius: 10px;
     text-align: center;
@@ -37,7 +37,7 @@ body {
     margin: 20px auto 0;
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #00b894;
+    background-color: #045e4c;
     color: white;
     border: none;
     border-radius: 5px;
@@ -45,7 +45,7 @@ body {
   }
   
   button:hover {
-    background-color: #019874;
+    background-color: #426a61;
   }
   
   #result {
